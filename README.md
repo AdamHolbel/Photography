@@ -6,14 +6,14 @@ This website shows the history of photography such as famous photographers. It e
 - This website allows viewers to view photos and learn information about photography.
 
 ## Log
-Oct 30: Changed project so it is about photography history instead of a place to upload photos. Sophie changed the main design of the site, linked the pages to each other, added a drop down menu for the gallery link. Also created the pages for History, Biographies, Gallery, and About Us. Team members also wrote the mini biographies of two photographers.
-Oct 29: Maggie linked website to IntelliJ and updated the README file. Team also made minor changes to html
-Oct 28: Linked Github and Jinja to the code
-Oct 23: Maggie added the first photo to the webpage!
-Oct 22: Adam worked on updating README.md
-Oct 21: Sophie changed the format of the homepage heading
-Oct 20: We updated the titles and link names to fit our plans for the website.
-Oct 19: Started the photography website where we upload photos
+- Oct 30: Changed project so it is about photography history instead of a place to upload photos. Sophie changed the main design of the site, linked the pages to each other, added a drop down menu for the gallery link. Also created the pages for History, Biographies, Gallery, and About Us. Team members also wrote the mini biographies of two photographers.
+- Oct 29: Maggie linked website to IntelliJ and updated the README file. Team also made minor changes to html
+- Oct 28: Linked Github and Jinja to the code
+- Oct 23: Maggie added the first photo to the webpage!
+- Oct 22: Adam worked on updating README.md
+- Oct 21: Sophie changed the format of the homepage heading
+- Oct 20: We updated the titles and link names to fit our plans for the website.
+- Oct 19: Started the photography website where we upload photos
 
 ## Pages
 - Home : This is the initial page that viewers will see. Here, they will see an overview of the website and peaks at photo features. From here, viewers can navigate to other pages.
